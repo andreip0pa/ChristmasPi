@@ -5,7 +5,7 @@ sense = SenseHat()
 
 while 1==1:
   
-  timecounter=0.5
+  timecounter=0.15
   patternchoose=random.randint(1,10)
   i=0
   j=0
